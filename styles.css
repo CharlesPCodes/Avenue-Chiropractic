@@ -1,0 +1,68 @@
+/*styles*/
+
+html,
+body{
+   height: 100% 
+}
+
+h2{
+    color: #6eb33f;
+}
+p{
+    font-weight: bold;
+}
+li{
+    font-weight: bold;
+}
+h3{
+    color: #538fab;
+}
+.navbar{
+    float: none
+}
+/*cover*/
+#cover{
+    background: #222 url('img/ave_chiro.jpg') no-repeat;
+    background-size: cover;
+    color: white;
+    height: 70%;
+    text-align: center;
+    font-weight: bold;
+}
+
+#cover-title{
+    font-family: 'Trebuchet MS', Verdana, Arial;
+}
+
+#cover-contact{
+    color: 	white;
+}
+
+#home-info{
+    /*padding-right: 20rem;*/
+    color: green;
+    font-weight:bold;
+    text-align: center;
+}
+
+
+#store-front{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.footer{
+display: block;
+background-color: #bcdf46;
+text-align: right;
+padding: 10px;
+}
+
+#info-container{
+    align-self: center;
+}
+
+#service-image{
+    padding: 20px;
+}
+
